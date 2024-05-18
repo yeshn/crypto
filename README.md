@@ -25,7 +25,7 @@ Followed steps as mentioned in https://jupyterlite.readthedocs.io/en/latest/quic
     
         - Click Save.
 
-- Your repo can now be accessed as Jupyter Lite page **https://yeshn.github.io/\<repo_name\>** 
+- Your repo can now be accessed as Jupyter Lite page **https://yeshn.github.io/<repo_name\>** 
 
 
 You can open the jupyter notebook via mybinder.org Refer below link on how to go about it **https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md**
