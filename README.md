@@ -25,25 +25,31 @@ Followed steps as mentioned in https://jupyterlite.readthedocs.io/en/latest/quic
     
         - Click Save.
 
-- Your repo can now be accessed as Jupyter Lite page **https://yeshn.github.io/<repo_name\>** 
+- Your repo can now be accessed as Jupyter Lite page **https://yeshn.github.io/<repo_name>** 
 
-
+<br>
+<br>
 You can open the jupyter notebook via mybinder.org Refer below link on how to go about it **https://github.com/Build-a-binder/build-a-binder.github.io/blob/master/workshop/10-zero-to-binder.md**
-
-<b>Note</b> You can only make local changes to the Jupyter Notebook when using with mybinder.org You will have to download the updated Notebook locally and commit to github seperately
-
-DO NOT UPLOAD THE FILE FROM YOUR ORGANIZATON MACHINE TO GITHIB. YOU WILL SEE A WARNING POP-UP FROM YOUR ORGANIZATION
-
+<br>
+<br>
+<b>Note:</b><br>
+- You can only make local changes to the Jupyter Notebook when using with mybinder.org You will have to download the updated Notebook locally and commit to github seperately<br>
+- DO NOT UPLOAD THE FILE FROM YOUR ORGANIZATON MACHINE TO GITHIB. YOU WILL SEE A WARNING POP-UP FROM YOUR ORGANIZATION
+<br>
+<br>
 Markdown examples **https://www.datacamp.com/tutorial/markdown-in-jupyter-notebook**
-
+<br>
+<br>
 Other ways to run your Jupyter Notebook in the cloud **https://www.dataschool.io/cloud-services-for-jupyter-notebook/**
-
+<br>
+<br>
 You can create multiple sub-folders in <b>yeshn.github.io/\<repo_name\>/content</b> to effectively organise your code.
 Similar to the <b>crypto</b> folder I have  created
 
 <br>
 <hr>
 <br>
+
 
 # JupyterLite Demo
 
